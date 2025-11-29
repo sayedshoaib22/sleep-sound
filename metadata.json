@@ -1,0 +1,7 @@
+{
+  "name": "FurniFit - Smart Furniture Studio",
+  "description": "Premium furniture showroom with AI Interior Design consultation. Shop Sofas, Beds, and Dining sets.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
